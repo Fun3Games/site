@@ -1,0 +1,15 @@
+* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9; /* Fondo suave para la página */
+  color: #333; /* Texto en color oscuro para mejor legibilidad */
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #222; /* Títulos con color oscuro */
+  font-family: 'Georgia', serif; /* Elegimos una tipografía serif para los encabezados */
+  margin-top: 30px;
+}
