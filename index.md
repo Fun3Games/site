@@ -21,7 +21,7 @@ We offer a variety of exciting games that are suitable for children of different
 
 For your convenience, you can access our **Privacy Policy** and **Terms and Conditions** below, to learn more about how we protect your data and what rules govern the use of our games.
 
-- [Privacy Policy](privacy-policy.md)
+- [Privacy Policy](privacy.md)
 - [Terms and Conditions](terms-and-conditions.md)
 
 Thank you for choosing Fun3Games! We hope you and your children enjoy our games as much as we enjoy making them.
