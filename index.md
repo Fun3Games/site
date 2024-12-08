@@ -26,11 +26,4 @@ For your convenience, you can access our **Privacy Policy** and **Terms and Cond
 
 Thank you for choosing Fun3Games! We hope you and your children enjoy our games as much as we enjoy making them.
 
----
 
-### Notas:
-- **Enlaces a las páginas de privacidad y términos**: Los enlaces a las páginas de "Política de Privacidad" y "Términos y Condiciones" están configurados para redirigir a los archivos `privacy-policy.md` y `terms-and-conditions.md`. Asegúrate de que estos archivos existan en tu proyecto.
-- **Formato Markdown**: Este archivo es completamente en Markdown, por lo que si lo usas en un sitio que soporte Jekyll o un generador de sitios estáticos, debería renderizar correctamente.
-- **Encabezados**: El encabezado `---` es utilizado por Jekyll para los metadatos del archivo, como el título y el diseño. 
-
-Con este archivo en formato `.md`, podrás crear una página de inicio atractiva que también ofrezca enlaces fáciles a la Política de Privacidad y los Términos y Condiciones de tu sitio.
