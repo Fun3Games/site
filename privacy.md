@@ -96,5 +96,13 @@ permalink: /privacy/
     48013, Vizcaya, Spain.
   </p>
 
-  <h3>8. Data Security</h3>
-  <p>We take reasonable measures to protect your personal data from unauthorized access, alteration, disclosure, or destruction. However, no transmission or storage
+    <h3>8. Data Security</h3>
+  <p>We take reasonable measures to protect your personal data from unauthorized access, alteration, disclosure, or destruction. However, no transmission or storage system is completely secure, and we cannot guarantee absolute security.</p>
+
+  <h3>9. Changes to the Privacy Policy</h3>
+  <p>We reserve the right to modify this privacy policy at any time. In the event of significant changes that affect users' rights, we will notify you via email. The updated privacy policy will always be accessible in the App or on our website (if applicable).</p>
+
+  <h3>10. Contact Information</h3>
+  <p>If you have any questions or concerns about this privacy policy or how we handle your personal data, you can contact us at the following email address: <a href="mailto:fun3threegames@gmail.com">fun3threegames@gmail.com</a>.</p>
+</div>
+
