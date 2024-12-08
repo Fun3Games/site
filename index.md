@@ -21,22 +21,16 @@ We offer a variety of exciting games that are suitable for children of different
 
 For your convenience, you can access our **Privacy Policy** and **Terms and Conditions** below, to learn more about how we protect your data and what rules govern the use of our games.
 
-- [Privacy Policy](privacy-policy.html)
-- [Terms and Conditions](terms-and-conditions.html)
+- [Privacy Policy](privacy-policy.md)
+- [Terms and Conditions](terms-and-conditions.md)
 
 Thank you for choosing Fun3Games! We hope you and your children enjoy our games as much as we enjoy making them.
 
 ---
 
 ### Notas:
-- **Enlaces a las páginas de privacidad y términos**: Los enlaces a las páginas de "Política de Privacidad" y "Términos y Condiciones" se colocan al final de la página, como es común para este tipo de documentos. Están apuntando a `privacy-policy.html` y `terms-and-conditions.html`, lo que supone que esos archivos están en la misma carpeta que la página principal.
-- **Contenido**: He proporcionado una descripción general de la empresa, explicando que Fun3Games es una compañía dedicada a juegos educativos para niños, destacando la seguridad y privacidad.
-- **Estructura en Jekyll**: El encabezado `---` es para indicar metadatos en Jekyll, como el título y la disposición de la página. También puedes ajustar el diseño usando el archivo de plantilla `default` o cualquier otro que tengas configurado.
+- **Enlaces a las páginas de privacidad y términos**: Los enlaces a las páginas de "Política de Privacidad" y "Términos y Condiciones" están configurados para redirigir a los archivos `privacy-policy.md` y `terms-and-conditions.md`. Asegúrate de que estos archivos existan en tu proyecto.
+- **Formato Markdown**: Este archivo es completamente en Markdown, por lo que si lo usas en un sitio que soporte Jekyll o un generador de sitios estáticos, debería renderizar correctamente.
+- **Encabezados**: El encabezado `---` es utilizado por Jekyll para los metadatos del archivo, como el título y el diseño. 
 
-### ¿Cómo usar este código?
-1. Guarda este contenido en un archivo llamado **`index.md`** o **`home.md`** en la carpeta correspondiente de tu proyecto Jekyll (generalmente en la carpeta `_pages` o en la raíz del proyecto).
-2. Asegúrate de que los enlaces de las páginas de **Política de Privacidad** y **Términos y Condiciones** estén correctamente configurados (con sus archivos correspondientes en formato HTML o Markdown).
-3. Accede a la URL de tu página principal y el contenido debería mostrarse correctamente con los enlaces de redirección a las otras dos páginas. 
-
-Esto creará una página principal que da la bienvenida a los usuarios y los guía a las otras páginas importantes del sitio web.
-
+Con este archivo en formato `.md`, podrás crear una página de inicio atractiva que también ofrezca enlaces fáciles a la Política de Privacidad y los Términos y Condiciones de tu sitio.
