@@ -13,7 +13,7 @@ By using this game, you certify that you have read and reviewed this Agreement a
 
 ## Privacy Policy
 
-Before you continue using our games, we advise you to read our privacy policy [here](privacy-policy.html) regarding our user data collection. It will help you better understand our practices.
+Before you continue using our games, we advise you to read our privacy policy [here](privacy-policy.dm) regarding our user data collection. It will help you better understand our practices.
 
 ## Intellectual Property
 
