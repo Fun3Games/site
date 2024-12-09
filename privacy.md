@@ -24,13 +24,13 @@ permalink: /privacy/
   <h3>3. Parental Choices and Controls</h3>
   <p>At any time, parents can refuse to permit us to collect further personal information from their children in association with a particular account, and can request that we delete from our records the personal information we have collected in connection with that account. Please keep in mind that a request to delete records may lead to a termination of an account, membership, or other service.</p>
 
-  <p>Where a child has registered for a <a href="https://fun3threegames.wixsite.com/fun3games">https://fun3threegames.wixsite.com/fun3games</a> account, we use one method to allow parents to access, change, or delete the personally identifiable information that we have collected from their children:</p>
+  <p>Where a child has registered for a <a href="https://fun3games.github.io/site/">https://fun3games.github.io/site/</a> account, we use one method to allow parents to access, change, or delete the personally identifiable information that we have collected from their children:</p>
   <ul>
     <li>Parents can contact Guest Services to request access to, change, or delete their child’s personal information by sending an email to us at <a href="mailto:fun3threegames@gmail.com">fun3threegames@gmail.com</a>. A valid request to delete personal information will be accommodated within a reasonable time.</li>
   </ul>
 
   <h3>4. Children’s Privacy Policy</h3>
-  <p>At Fun3Games, we uphold the privacy rights of children and all of our users. This privacy policy adheres to the Children’s Online Privacy Protection Act (COPPA) and clarifies how we collect, use, and disclose personal data from children under the age of thirteen who utilize the services offered through our website <a href="https://fun3threegames.wixsite.com/fun3games">https://fun3threegames.wixsite.com/fun3games</a> (the “Site”) and the related educational services, such as games (collectively, the “Services”).</p>
+  <p>At Fun3Games, we uphold the privacy rights of children and all of our users. This privacy policy adheres to the Children’s Online Privacy Protection Act (COPPA) and clarifies how we collect, use, and disclose personal data from children under the age of thirteen who utilize the services offered through our website <a href="https://fun3games.github.io/site/">https://fun3games.github.io/site/</a> (the “Site”) and the related educational services, such as games (collectively, the “Services”).</p>
 
   <h4>4.1. Services Description</h4>
   <p>Fun3Games provides educational games on various game platforms. In the process of providing these Services, we may encounter information, including personal information, from course participants.</p>
